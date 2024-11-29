@@ -1,0 +1,6 @@
+@TeamF_HostAddress = http://localhost:5032
+
+GET {{TeamF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
